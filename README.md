@@ -2,8 +2,11 @@
 
 ## Description
 
-In this week's challenge, we were tasked with the assignment to refactor Horiseon the marketing company's website to make it more accessible in line with the designated acceptance criteria. Below is a screenshot of the mock-up website used as a guide.
+In this week's challenge :star_struck:, we were tasked with the assignment to refactor Horiseon the marketing company's website to make it more accessible and in line with the designated acceptance criteria.
 
+Below is a screenshot of the mock-up website used as a guide.
+<br>
+<br>
 ![Screenshot of original website](image-assets/01-html-css-git-challenge-demo.png)
 
 ## Credits
