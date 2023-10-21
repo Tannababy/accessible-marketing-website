@@ -1,4 +1,4 @@
-# Horiseon marketing website
+# Horiseon marketing website project
 
 ## Description
 
@@ -9,7 +9,7 @@ In this week's challenge, we were tasked with assignment to refactor Horiseon th
 Provide instructions and examples for use. Include screenshots as needed.
 To add a screenshot, create an assets/images folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-![alt text](assets/images/screenshot.png)
+! [image of original website](./image-assets/01-html-css-git-challenge-demo.png)
 
 ## Credits
 
