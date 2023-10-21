@@ -49,6 +49,9 @@ nav {
 
 ul {
   list-style-type: none;
+}
+
+li {
   display: inline-block;
   margin-left: 25px;
 }
@@ -62,11 +65,20 @@ p {
   font-size: 16px;
 }
 
+footer {
+  font-size: 20px;
+  padding: 30px;
+  clear: both;
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+}
+
 #content {
   width: 75%;
   display: inline;
   margin-left: 20px;
-  padding-right: 20px;
   position: absolute;
 }
 
@@ -74,7 +86,6 @@ p {
   display: inline;
   margin-right: 20px;
   padding: 20px;
-  right: 200px;
   clear: both;
   float: right;
   width: 20%;
@@ -128,14 +139,4 @@ p {
   display: block;
   margin: 10px auto;
   max-width: 150px;
-}
-
-.footer {
-  font-size: 20px;
-  padding: 30px;
-  clear: both;
-  position: relative;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
-  text-align: center;
 }
